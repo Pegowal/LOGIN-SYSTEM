@@ -1,0 +1,5 @@
+EMAIL_USE_TLS=True
+EMAIL_HOST='smtp.gmail.com'
+EMAIL_HOST_USER='siddhant.19b121053@abes.ac.in'
+EMAIL_HOST_PASSWORD='abes@2000'
+EMAIL_PORT=587
